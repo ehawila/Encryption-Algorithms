@@ -74,7 +74,7 @@ void decrypt() {
     }
   }
   std::cout << "============================" << std::endl;
-  std::cout << "password: " << epass << std::endl;
+  std::cout << "Password: " << epass << std::endl;
   std::cout << "============================" << std::endl;
 }
 
